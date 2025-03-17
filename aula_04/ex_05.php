@@ -6,5 +6,21 @@
         $soma += $valor;
     }
     $resul = $soma / count($alunos_notas);
-    echo "Média: " . $resul;
+    echo "Média: " . $resul . "<br>";
+
+    //Desafio
+    $maiorNota = 0;
+    $nomeMaiorNota = "";
+    foreach ($alunos_notas as $nome => $valor) {
+        if ($valor > $maiorNota){
+            $maiorNota = $valor;
+            $nomeMaiorNota = $nome;
+        }
+    }
+    if ($maiorNota != 0){
+        echo $nomeMaiorNota . ": " . $maiorNota;
+    }
+    else{
+        echo "Todos tiraram zero.";
+    }
 ?>
