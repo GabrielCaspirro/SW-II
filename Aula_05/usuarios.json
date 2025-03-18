@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Gabriel Caspirro",
+            "email": "gabriel@email.com",
+            "idade": 17
+        },
+        {
+            "id": 2,
+            "nome": "Paulo Augusto",
+            "email": "paulo@email.com",
+            "idade": 16
+        },
+        {
+            "id": 3,
+            "nome": "Bryan Almeida",
+            "email": "bryan@email.com",
+            "idade": 16
+        }
+    ]
+}
