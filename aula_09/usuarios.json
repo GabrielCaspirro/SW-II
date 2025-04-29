@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Kevyn Marques Takynho",
+        "email": "takynhoverycrazy@email.com"
+    },
+    {
+        "id": 2,
+        "nome": "João Silva",
+        "email": "joao@email.com"
+    },
+    {
+        "id": 3,
+        "nome": " Nova pessoa",
+        "email": "novoemail@email.com"
+    },
+    {
+        "id": 4,
+        "nome": " Nova pessoa 3",
+        "email": "novoemail3@email.com"
+    }
+]
